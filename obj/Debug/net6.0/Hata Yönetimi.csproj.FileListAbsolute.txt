@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\bin\Debug\net6.0\Hata Yönetimi.exe
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\bin\Debug\net6.0\Hata Yönetimi.deps.json
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\bin\Debug\net6.0\Hata Yönetimi.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\bin\Debug\net6.0\Hata Yönetimi.dll
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\bin\Debug\net6.0\Hata Yönetimi.pdb
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\Hata Yönetimi.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\Hata Yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\Hata Yönetimi.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\Hata Yönetimi.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\Hata Yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\Hata Yönetimi.dll
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\refint\Hata Yönetimi.dll
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\Hata Yönetimi.pdb
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\Hata Yönetimi.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Hata Yönetimi\obj\Debug\net6.0\ref\Hata Yönetimi.dll
